@@ -22,7 +22,7 @@ Soy Un Estudiante de El instituto Tecnologico de Tijuana Cursando el 7mo Semestr
 
 - 📫 Como contactarme : navidadyhallowen@gmail.com // jorge.diaz193@tectijuana.edu.mx
 
-- ⚡ Dato extra : una playlist para programar ( https://open.spotify.com/album/0kqyc28p9808r0okknghvp?si=qrk9ntlmqvmaih4fi2xmow&utm_source=copy-link )
+- ⚡ Dato extra : una playlist para programar ( https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp?si=D3fXBcOBQuuOXyB0DCAvWQ )
 
 #                                                                 Horario
 |       | LUNES                               | MARTES                              | MIERCOLES                           | JUEVES                              | VIERNES                             |
