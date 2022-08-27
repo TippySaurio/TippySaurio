@@ -1,7 +1,6 @@
 ### Buenas
 
-
-![](https://imgur.com/a/xKtYNeZ)
+[![asdad](https://imgur.com/a/xKtYNeZ "asdad")](https://i.imgur.com/zcajzds.png "asdad")
 <!--
 **TippySaurio/TippySaurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
