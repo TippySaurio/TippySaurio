@@ -2,6 +2,9 @@
 
 ### Buenas
 
+####Estas visitando el repositorio del Estudiante Said Diaz
+**Espero pueda ayudarte con alguna duda o trabajo para tu desarollo como estudiante o simplemente necesites un ejemplo, espero algo te sirva.**
+
 <!--
 **TippySaurio/TippySaurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
