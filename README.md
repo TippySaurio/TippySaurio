@@ -8,38 +8,20 @@
 
 # Estudio en la Carrera de [![](https://i.imgur.com/kGgLiOJ.png)](https://imgur.com/a/xKtYNeZ)
 
+Soy Un Estudiante de El instituto Tecnologico de Tijuana Cursando el 7mo Semestre.
+- Tengo conocimiento sobre Programacion en c#, en caunto a preferencias prefiero la programacion en consola pero soy bueno en cuanto a la parte de aplicacion de escritorio y el desarrollo de software quye es en lo que me estoy especializando acutalmente.
+- En java cc un poco ya que codificamos un compilador y tambien un Aanalizador lexico.
+- En cuanto a la parte de bases de datos tengo conocimiento sobre SQL en muchos aspectos y como DBA.
+- 
 
 
+Here are some ideas to get you started:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with ...
+- 📫 Como contactarme : navidadyhallowen@gmail.com // jorge.diaz193@tectijuana.edu.mx
+- ⚡ Fun fact: ...
 
 
 #                                                                 Horario
@@ -51,27 +33,3 @@
 | 17:00 | programacion logica y funcional     | programacion logica y funcional     | programacion logica y funcional     | programacion logica y funcional     |                                     |
 | 18:00 | conmutacion y enrutamiento de redes | conmutacion y enrutamiento de redes | conmutacion y enrutamiento de redes | conmutacion y enrutamiento de redes | conmutacion y enrutamiento de redes |
 | 19:00 | lenguajes y automatas II            | lenguajes y automatas II            | lenguajes y automatas II            | lenguajes y automatas II            | lenguajes y automatas II            |
-
-
-
-
-
-
-
-
-<!--
-**TippySaurio/TippySaurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![](https://imgur.com/a/xKtYNeZ)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
