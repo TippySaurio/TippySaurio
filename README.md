@@ -12,17 +12,17 @@ Soy Un Estudiante de El instituto Tecnologico de Tijuana Cursando el 7mo Semestr
 - Tengo conocimiento sobre Programacion en c#, en caunto a preferencias prefiero la programacion en consola pero soy bueno en cuanto a la parte de aplicacion de escritorio y el desarrollo de software quye es en lo que me estoy especializando acutalmente.
 - En java cc un poco ya que codificamos un compilador y tambien un Aanalizador lexico.
 - En cuanto a la parte de bases de datos tengo conocimiento sobre SQL en muchos aspectos y como DBA.
+- Conocimiento sobre Lenguaje ensamblador.
+- En progreso de aprendizaje basico de un curso de python.
+- Conocimiento sobre instalacion y configuracion de sistemas operativos asi como a varias versiones de linux y microsoft a su vez como un dominio de estas.
+- Programacion orientada a objetos.
+- Ligeros conocimientos de java scrip.
 - 
+- 🌱 Estoy aprendiendo actualmente : Sistemas programables 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
 - 📫 Como contactarme : navidadyhallowen@gmail.com // jorge.diaz193@tectijuana.edu.mx
-- ⚡ Fun fact: ...
 
+- ⚡ Dato extra : una playlist para programar ( https://open.spotify.com/album/0kqyc28p9808r0okknghvp?si=qrk9ntlmqvmaih4fi2xmow&utm_source=copy-link )
 
 #                                                                 Horario
 |       | LUNES                               | MARTES                              | MIERCOLES                           | JUEVES                              | VIERNES                             |
