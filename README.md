@@ -7,7 +7,7 @@
 **Espero pueda ayudarte con alguna duda o trabajo para tu desarollo como estudiante o simplemente necesites un ejemplo, espero algo te sirva.**
 
 #Estudio en la Carrera de
-[![](https://i.imgur.com/zcajzds.png)](https://imgur.com/a/xKtYNeZ)
+[![](https://i.imgur.com/kGgLiOJ.png)](https://imgur.com/a/xKtYNeZ)
 
 
 
